@@ -12,7 +12,7 @@ I am completing this application as a means of professional development. Since c
 This project must demonstrate my coding ability and prior knowledge of web development, specifically in relation to my ability to interact with and use a REST API.
 
 ### Scope
-This project requires a 1-page web application. This project will use HTML/CSS/JS in conjunction with the SWAPI.Tech Star Wars REST API. This project does not require the use of a database or back end.
+This project requires a 1-page web application. This project will use HTML/CSS/JS in conjunction with the Open-Meteo Eather API. This project does not require the use of a database or back end.
 
 ### Deliverables
 Deliverables include a github repository containing:
